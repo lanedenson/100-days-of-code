@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 Why 100 Days of Code for me?
-I've always enjoyed the idea of programming/coding/developing, whatever you want to call it. In some of my previous job roles, I have done a decent amount of coding, but am completely self taught - so there are gaps in my knowledge. For the past several years I have managed a team of web developers, but in this role I am strictly a manager. Not much opportunity to get my hands dirty and write code.  
+I've always enjoyed the idea of programming/coding/developing, whatever you want to call it. In some of my previous job roles, I have done a decent amount of coding, but am completely self taught - so there are gaps. For the past several years I have managed a team of web developers, but in this role I am strictly a manager. Not much opportunity to get my hands dirty and write code.  
 
 Additionally, my kid is showing signs of interest, so I figured this would be a good time to take a few steps back and explore different languages, frameworks, etc. and maybe bring him along for the ride. 
 
@@ -32,5 +32,14 @@ Still plenty of room for improvement; need to add error handling and the option 
 **Thoughts** Because I am a fan of retro-computing, I recreated the calculator in Microsoft BASIC for the Commodore 64. I think I spent more time trying to format the text to fit a 40 column fixed width screen than anything else! The calculations are a little bit off due to limited floating-point precision. There may be ways to address this; may look into it later.  
 
 **Link(s) to work**
-No links yet; need to figure out how to copy the code to my repo.
+1. [Raw PRG file - should work natively on Commodore 8-bitters](https://github.com/lanedenson/compound-interest-calculator/blob/main/compoundinterest.prg)
+2. [BASIC program exported to a .bas file](https://github.com/lanedenson/compound-interest-calculator/blob/main/compound-interest.bas)
 
+### Day 4: November 27, Wednesday
+
+**Today's Progress**: Started work on JavaScript variant
+
+**Thoughts** The goal is to make this a web page that will take the inputs via an on screen form, do the math, plot a graph, etc. For now, this is is just a straight port of the Python version. Not completed yet.
+
+**Link(s) to work**
+1. [JavaScript version](https://github.com/lanedenson/compound-interest-calculator/blob/main/interest-less-detail.js)
