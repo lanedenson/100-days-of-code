@@ -43,3 +43,13 @@ Still plenty of room for improvement; need to add error handling and the option 
 
 **Link(s) to work**
 1. [JavaScript version](https://github.com/lanedenson/compound-interest-calculator/blob/main/interest-less-detail.js)
+
+### Day 5: November 28, Thursday
+
+**Today's Progress**: Made improvements to Python scripts
+
+**Thoughts** Updated the Python scripts to do some error handling on the inputs, added docstrings to functions for documentation purposes
+
+**Link(s) to work**
+1. [GitHub Repo](https://github.com/lanedenson/compound-interest-calculator)
+
