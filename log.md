@@ -53,3 +53,11 @@ Still plenty of room for improvement; need to add error handling and the option 
 **Link(s) to work**
 1. [GitHub Repo](https://github.com/lanedenson/compound-interest-calculator)
 
+### Day 6: November 30, Saturday
+
+**Today's Progress**: Made additional improvements to Python scripts
+
+**Thoughts** Moved the error checking to it's own helper function, rather than having the same error checking logic in both float and integer inputs.
+
+**Link(s) to work**
+1. [GitHub Repo](https://github.com/lanedenson/compound-interest-calculator)
