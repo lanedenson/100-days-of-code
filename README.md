@@ -1,5 +1,9 @@
 # I've joined the #100DaysOfCode Challenge
 
+Why 100 Days of Code for me? I've always enjoyed programming/coding/developing, whatever you want to call it. In some of my previous job roles, I have done a decent amount of coding, but am completely self taught - so there are gaps. For the past several years I have managed a team of web developers, but in this current role I am strictly a manager. Not much opportunity to get my hands dirty and write code, and I miss it.
+
+Secondly, my kid is showing signs of interest, so I figured this would be a good time to take a few steps back and explore different languages, frameworks, etc. and maybe bring him along for the ride.
+
 ## Contents
 
 - [Rules](rules.md)
