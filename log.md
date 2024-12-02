@@ -61,3 +61,13 @@ Still plenty of room for improvement; need to add error handling and the option 
 
 **Link(s) to work**
 1. [GitHub Repo](https://github.com/lanedenson/compound-interest-calculator)
+
+### Day 7: December 1, Sunday
+
+**Today's Progress**: Started work on monthly contributions
+
+**Thoughts** Started work on adding monthly contributions to the function. Really too complex to keep in a single equation, so I'm going to use the approach I started in interest.py to step through each part of the equation, creating variables for each step. That way I can reuse some of the common portions, such as the rate per period and total periods.
+
+**Link(s) to work**
+1. [GitHub Repo](https://github.com/lanedenson/compound-interest-calculator)
+
