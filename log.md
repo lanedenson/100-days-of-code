@@ -71,3 +71,11 @@ Still plenty of room for improvement; need to add error handling and the option 
 **Link(s) to work**
 1. [GitHub Repo](https://github.com/lanedenson/compound-interest-calculator)
 
+### Day 8: December 4, Wednesday
+
+**Today's Progress**: PageVitals API Client
+
+**Thoughts** (Pretty sure I did some coding between day 7 and day 8, but I didn't record it). This is more of a work project, as I want to be able to track and manipulate the data from the PageVitals - website performance monitoring service - to better measure progress over time. I am using AI for this project as my time is limited to complete this, but if there are straightforward adjustments I can make on my own, I will do so rather than let Cursor/Claude do it for me.
+
+**Link(s) to work**
+1. [GitHub Repo](https://github.com/lanedenson/pagevitals-api-client)
