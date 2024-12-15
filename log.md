@@ -79,3 +79,14 @@ Still plenty of room for improvement; need to add error handling and the option 
 
 **Link(s) to work**
 1. [GitHub Repo](https://github.com/lanedenson/pagevitals-api-client)
+
+
+### Day 9: December 14, Saturday
+
+**Today's Progress**: Made adjustments to MiSTer FPGA cifs_mount script
+
+**Thoughts** Forked the MiSTer-devel/Scripts_MiSTer repo. Made updates to cifs_mount.sh to provide improved error handling and messaging.
+
+**Link(s) to work**
+1. [Original GitHub Repo](https://github.com/MiSTer-devel/Scripts_MiSTer)
+2. [Updated branch with my edits](https://github.com/lanedenson/Scripts_MiSTer/tree/cifs-mount-error-handling-improvement)
